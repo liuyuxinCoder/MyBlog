@@ -1,0 +1,10 @@
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\bin\Debug\Blog.DAL.dll
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\bin\Debug\Blog.DAL.pdb
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\bin\Debug\Blog.Model.dll
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\bin\Debug\EntityFramework.dll
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\bin\Debug\Blog.Model.pdb
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\bin\Debug\EntityFramework.xml
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\obj\Debug\Blog.DAL.csprojResolveAssemblyReference.cache
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\obj\Debug\Blog.DAL.dll
+F:\私人\MVC项目\Blog_liuyuxin\Blog.DAL\obj\Debug\Blog.DAL.pdb

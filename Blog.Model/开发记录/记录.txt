@@ -1,0 +1,19 @@
+1、BlogDbContext.cs类
+	需要继承DbContext，需要引用EntityFrameword.dll，在NuGet包管理器中添加。
+2、把实体更新到数据库对应的表结构。执行命令Enable-Migrations
+	工具==>NuGet包管理器==>程序包管理器控制台==>Enable-Migrations
+3、主键
+	需要将某个字段指定为主键，加特性[key]
+4、生成数据表
+	写好实体类之后，add-migration name ==> updata-database
+	需要将存在连接字符串的web.cofig所在的项目设置为启动项
+5、外键
+	[ForeignKey("BlogType")]
+    public int TypeId { get; set; }
+    public virtual BlogType BlogType { get; set; }
+6、更新表结构
+	在实体类中改好后，重复4
+
+
+PM> Update-Package Microsoft.AspNet.WebApi -Version 5.2.2
+正在项目“Blog.WebApi”中将“Microsoft.AspNet.WebApi”从版本“4.0.30506.0”更新到“5.2.2”。
